@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
 <h6 align="center">Hi, I’m Muhammad Talha, a passionate Full Stack Developer with focus on Machine Learning and Artificial Intelligence. I’m always eager to learn and collaborate on innovative projects that push the boundaries of technology. Let’s connect and explore opportunities to create impactful solutions together!</h3>
 
-- 🔭 I’m currently working on **Parhlai**
+- 🔭 I’m currently working at **Parhlai**
 
 - 🌱 I’m currently learning **DevOps/AI/ML/Next Js**
 
