@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SpicyTalha?tab=repositories](https://github.com/SpicyTalha?tab=repositories)
 
-- 📫 How to reach me **spicytalha@gmail.com**
+- 📫 How to reach me **spicytalhadevelops@gmail.com**
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
