@@ -30,6 +30,10 @@
             <td><a href="https://github.com/SpicyTalha/SpeakSigns">SpeakSigns</a> - ML to interpret sign language to text from live feed, videos, and images. </td>
             <td><a href="https://github.com/SpicyTalha/etch-a-sketch">Etch a Sketch</a> - A fun sketching website made with JS</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/SpicyTalha/BattleShip">BattleShip</a> - An AI bot in BattleShip game using RL and MDPs to beat you. </td>
+            <td><a href="https://github.com/SpicyTalha/EmoScan">EmoScan</a> - A ML Project for Sentiment Analysis on Movie Reviews.</td>
+        </tr>
     </table>
 
 
