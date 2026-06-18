@@ -94,9 +94,7 @@ Full Stack Developer (MERN) with a focus on AI/ML integration. Final-year Comput
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SpicyTalha&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpicyTalha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook" alt="top-langs" />
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpicyTalha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top-langs" />
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SpicyTalha&theme=dark" alt="streak" />
 </div>
